@@ -1,0 +1,60 @@
+#lists
+/* Add a black background color to the top navigation */
+
+
+body {
+    color: #b1b1fb;
+}
+
+body
+{
+    font-family: "Leelawadee UI", Segoe, Arial, sans-serif
+}
+body {
+    background-color: #b1b1fb;
+}
+.topnav {
+    background-image: linear-gradient(mediumpurple, lightseagreen);
+    overflow: auto;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: #0000cc;
+    font-size: 17px;
+    background-image: linear-gradient(bisque, #b1b1fb);
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #4a77d5;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #0c0c0c;
+    color: #004c8e;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%
+}
+body {
+background-image: linear-gradient(mediumpurple, lightseagreen);
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+/*Codes from w3schools.com*/
+
